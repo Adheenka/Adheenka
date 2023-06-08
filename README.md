@@ -1,7 +1,23 @@
-Always ready to learn new things
-..
+                                                          Hi there 👋 I'm adheen👨‍💻
+. 🔭 Software Engineer, Python Enthusiasts
+. 🌱 I’m currently learning Docker, Micro-Services,
+. 📫 How to reach me: adheen9961@gmail.com
 
-<!---
-Adheenka/Adheenka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My-Stack...💻
+    
+    🔥 Backend Languages:
+         Python ,Java script
+   
+    🎨 Frontend Frameworks,Languages:
+         Bootstrap ,Tailwind CSS ,css, HTML
+   
+    ⚡ Backend Frameworks:
+         Django ,Django REST 
+    
+    🛢 Databases:
+         PostgreSQL ,MySQL ,MongoDB
+   
+    ❄ Open Source:
+         Git ,GitHub
+   
+   
