@@ -1,4 +1,4 @@
-                                                          Hi there 👋 I'm adheen👨‍💻
+                                           Hi there 👋 I'm adheen👨‍💻
                                                           
 . 🔭 Software Engineer, Python Enthusiasts
 
