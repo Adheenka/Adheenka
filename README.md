@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adheenka
+Always ready to learn new things
 ..
 
 <!---
