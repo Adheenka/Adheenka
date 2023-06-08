@@ -20,7 +20,7 @@
 🛢 Databases :  *PostgreSQL ,MySQL ,MongoDB*
          
    
-❄ Open Source :  *Git ,GitHub *
+❄ Open Source :  *Git ,GitHub*
         
    
    
